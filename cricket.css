@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+  background-image:url(game\ 4.webp)
+  
+}
+
+.choice-button {
+  height: 120px;
+  width: 120px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(164, 212, 130);
+  border-radius: 47% 53% 56% 44%/64% 66% 34% 36%;
+  cursor: pointer;
+  margin-top: 70px;
+  margin-right: 47px;
+}
+
+.choice-image {
+  height: 75px;
+}
+.header{
+  margin-top: 40px;
+  margin-left: 60%;
+  font-size: 55px;
+  color: aliceblue;
+  display: inline;
+  
+}
+.symbol{
+  margin-left: 70px;
+}
+.divhead{
+  margin-top: 35px;
+  margin-left: 50px;
+  size: 50px;
+}
+
+#image1{
+  background-image: linear-gradient(#ca0dd1,#2178dd);
+
+}
+#image2{
+  background-image: linear-gradient(#ca0dd1,#2178dd);
+}
+#image3{
+  background-image: linear-gradient(#ca0dd1,#2178dd);
+}
+.reset_btn{
+  background-image: linear-gradient(#ca0dd1,#2178dd);
+  margin: 50px;
+  margin-left: 70%;
+  padding: 8px 50px;
+  border-radius: 20px;
+  border: solid 2px white ;
+  cursor: pointer;
+  color:aliceblue;
+  font-weight: 20px;
+}
+
+#border{
+  border: solid 5px white;
+  height: 200px;
+  width: 400px;
+  justify-content: center;
+  margin-left: 200px;
+  margin-top: 60px;
+  border-radius: 30% 70% 32% 68%/100% 0% 100% 0%;
+  background-image: linear-gradient(#ca0dd1,#2178dd);
+}
